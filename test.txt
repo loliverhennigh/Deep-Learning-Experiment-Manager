@@ -1,12 +1,5 @@
-./experiment.py 
-./experiment.py 
-./experiment.py 
-./experiment.py 
-./experiment.py 
-./experiment.py 
-./experiment.py 
-./experiment.py 
-./experiment.py 
-./experiment.py 
-./experiment.py 
-./experiment.py 
+python -u experiment.py 
+python -u experiment.py 
+python -u experiment.py 
+python -u experiment.py 
+python -u experiment.py 
